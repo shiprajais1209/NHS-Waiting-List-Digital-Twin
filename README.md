@@ -4,6 +4,10 @@ A digital-twin-style analytics and scenario simulation project for exploring NHS
 
 The project uses official NHS England RTT data to analyse historical waiting-list trends, forecast next-month 18+ week waiting pressure, identify providers at risk of high waiting pressure, and simulate how changes in treatment capacity and new RTT demand could affect future backlog levels.
 
+## Live Demo
+
+🔗 [Open the Streamlit Dashboard](https://nhs-waiting-list-digital-twin-shipra.streamlit.app)
+
 ## Project Overview
 
 NHS waiting lists are influenced by changing patient demand, treatment capacity, long-waiting pathways, transfers, RTT clock adjustments, and other operational factors.
@@ -148,3 +152,4 @@ NHS-Waiting-List-Digital-Twin/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
